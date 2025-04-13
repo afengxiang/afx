@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>爱分享导航站</title><link>http://example.org/</link><description>Recent content on 爱分享导航站</description><generator>Hugo</generator><language>zh-CN</language><copyright>afx</copyright><lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>关于网站</title><link>http://example.org/about/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><guid>http://example.org/about/</guid><description>&lt;p>本网站由 &lt;a href="https://github.com/gohugoio/hugo">Hugo&lt;/a> 驱动，使用 &lt;a href="https://github.com/oulh/hugo-webstack">hugo-webstack&lt;/a> 主题，通过 Github &lt;a href="https://pages.github.com/">Pages&lt;/a> 构建。&lt;/p>
+&lt;p>&lt;a href="https://github.com/oulh/hugo-webstack">hugo-webstack&lt;/a> 是基于&lt;strong>纯静态&lt;/strong>的网址导航网站&lt;a href="https://github.com/WebStackPage/WebStackPage.github.io">webstack.cc&lt;/a> 制作的&lt;a href="https://gohugo.io/">Hugo&lt;/a>主题。&lt;/p>
+&lt;h3 id="本站模板">本站模板&lt;/h3>
+&lt;p>&lt;a href="https://github.com/oulh/nav">https://github.com/oulh/nav&lt;/a>&lt;/p>
+&lt;h3 id="本站主题">本站主题&lt;/h3>
+&lt;p>&lt;a href="https://github.com/oulh/hugo-webstack">https://github.com/oulh/hugo-webstack&lt;/a>&lt;/p>
+&lt;h3 id="便捷编辑">便捷编辑&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>logo：已内置api，留空即可自动加载&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>description：可以复制网站自带的description内容，电脑浏览器按F12，在&amp;quot;元素&amp;quot;栏按Ctrl+F，搜&amp;quot;desc&amp;quot;，一般第一个就是&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>qrcode：可以填写api链接，如：&lt;a href="https://api.qrserver.com/v1/create-qr-code/?size=150x150&amp;amp;data=https://netcut.cn/">https://api.qrserver.com/v1/create-qr-code/?size=150x150&amp;amp;data=https://netcut.cn/&lt;/a>，&lt;/p>
+&lt;p>不过加载有点慢，使用本地图片更快。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>FontAwesome图标：&lt;a href="https://origin.fontawesome.com/v6/search/">https://origin.fontawesome.com/v6/search&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>子页面一</title><link>http://example.org/sub1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/sub1/</guid><description/></item><item><title>子页面二</title><link>http://example.org/sub2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/sub2/</guid><description/></item></channel></rss>
