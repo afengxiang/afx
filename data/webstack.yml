@@ -5,12 +5,11 @@
   links: 
     - title: YouTube
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      url: https://www.youtube.com
       description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 资源博客
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
+    - title: B站
+      logo:  
+      url: https://www.bilibili.com/
       description: 资源分享，详细图文教程。
     - title: Switch eSIM卡
       logo: images/logos/Switch.jpg
