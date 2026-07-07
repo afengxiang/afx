@@ -51,9 +51,14 @@
     - title: Base64编码解码
       url: https://99688988.xyz/base64-string-converter/
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: OneDrive直链
-      url: https://onedrive.gimhoy.com/
-      description: OneDrive直链获取工具
+    - title: 文叔叔
+      logo: 
+      url: https://www.wenshushu.cn/
+      description: 传临时文件,大文件、永不限速
+    - title: 网络剪贴板
+      logo: 
+      url: https://clipboard.168668520.xyz/
+      description: 提供数据暂存和传送服务
     - title: UUID生成
       url: https://99688988.xyz/uuid-generator/
       description: UUID在线生成
