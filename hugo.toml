@@ -1,6 +1,6 @@
-baseURL = "https://kjgx.168668520.xyz/"
+baseURL = "https://   /"
 languageCode = "zh-CN"
-title = "爱分享导航站"
+title = "1号导航站"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
@@ -27,7 +27,7 @@ copyright = "afx"
   # true显示按钮，false不显示
   enable = true
   # github文件的远程链接，改成自己的
-  url = "https://github.com/afengxiang/afx/blob/main/data/webstack.yml"
+  url = "https://github.com/sosling/one/blob/main/data/webstack.yml"
   
 #桌面端右上角code按钮
 [params.github]
