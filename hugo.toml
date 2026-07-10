@@ -1,4 +1,4 @@
-baseURL = "https://   /"
+baseURL = ""
 languageCode = "zh-CN"
 title = "1号导航站"
 theme = "hugo-webstack"
@@ -26,7 +26,7 @@ copyright = "afx"
 [params.edit]
   # true显示按钮，false不显示
   enable = true
-  # github文件的远程链接，改成自己的
+  # github文件的远程链接，   改成自己的
   url = "https://github.com/sosling/one/blob/main/data/webstack.yml"
   
 #桌面端右上角code按钮
