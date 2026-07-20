@@ -1,6 +1,6 @@
-baseURL = "https://kjgx.168668520.xyz/"
+baseURL = ""
 languageCode = "zh-CN"
-title = "爱分享导航站"
+title = "领威导航站"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
